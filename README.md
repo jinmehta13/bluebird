@@ -1,3 +1,16 @@
+First Pull Request
+=================
+
+First person to comment on the issue gets to do it.
+
+Follow the guide [here](http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/).
+
+Run `npm install` or `yarn` to install dependencies.
+
+`npm test` or `yarn test` to run the test suite.
+
+
+
 <a href="http://promisesaplus.com/">
     <img src="http://promisesaplus.com/assets/logo-small.png" alt="Promises/A+ logo"
          title="Promises/A+ 1.1 compliant" align="right" />
