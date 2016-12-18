@@ -111,7 +111,7 @@ Promise.prototype.reflect = function () {
         reflectHandler, undefined, this, undefined);
 };
 
-Promise.prototype.these = function (didFulfill, didReject) {
+    Promise.prototype.then = function (didFulfill, didReject) {
     if (debug.warnings() && arguments.length > 0 &&
         typeof didFulfill !== "function" &&
         typeof didReject !== "function") {
