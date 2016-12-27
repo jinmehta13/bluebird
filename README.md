@@ -9,7 +9,7 @@ Run `npm install` or `yarn` to install dependencies.
 
 `npm test` or `yarn test` to run the test suite.
 
-
+Make sure you send the pull request to firstpr/bluebird and not petkaantonov/bluebird!
 
 <a href="http://promisesaplus.com/">
     <img src="http://promisesaplus.com/assets/logo-small.png" alt="Promises/A+ logo"
